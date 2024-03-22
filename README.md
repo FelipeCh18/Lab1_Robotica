@@ -41,7 +41,7 @@ Finalmente, se establecieron condicionales para la realización de las distintas
 
 ## Diagrama de Flujo de acciones del robot
 <p align="center">
-    <img src=images/aDiagramaFlujo.png alt="Diagrama de flujo de las acciones del robot" width="700">
+    <img src=images/DiagramaFlujo.png alt="Diagrama de flujo de las acciones del robot" width="700">
 </p>
 
 ## Plano de planta de la ubicación de cada uno de los elementos
