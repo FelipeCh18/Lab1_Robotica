@@ -11,24 +11,23 @@ Se comenzó con el ***diseño de la herramienta***, considerando diversos aspect
 Adicionalmente, siguiendo las sugerencias del profesor, se optó por diseñar la herramienta con un ángulo de 45°. Esta decisión se tomó con el fin de facilitar el acceso a la superficie y evitar posibles la concordancia de los sistemas coordenados, obteniendo mediante el modelado en fusion 360, el siguiente modelo de la herramienta:
 
 <p align="center">
-    <img src="URL_DE_LA_IMAGEN" alt="Descripción de la imagen" width="500">
+    <img src=images/ModeloHerramienta.jpeg alt="Modelo de la herramienta" width="500">
+</p>
+<p align="center">
+    <img src=images/PlanoHerramienta.jpg alt="Plano de la herramienta" width="700">
 </p>
 
-[INSERTE IMAGEN DEL MODELO DE LA HERRAMIENTA]
 
 Después de su impresión en 3D y de ensamblar todas sus partes, la herramienta exhibió la siguiente apariencia:
 <p align="center">
     <img src=images/FotoHerramienta.jpeg alt="Foto de la herramienta impresa" width="500">
 </p>
 
-<p align="center">
-    <img src=images/Herramienta_Lab1.pdf alt="Plano de la herramienta" width="500">
-</p>
+
 Una vez completado el diseño de la herramienta, se procedió al modelado del objeto de trabajo con el fin de preparar la creación de la trayectoria deseada. Se cumplió con los requerimientos de incluir el nombre y logotipo de la empresa conocida "GitHub", así como las iniciales de los nombres de los miembros del grupo "MQFC". Para esto, se consideraron las dimensiones y ángulos de inclinación del tablero sobre el que se iba a dibujar proporcionados por el monitor del curso. El modelo resultante fue creado utilizando el software Inventor 2024.
 <p align="center">
-    <img src="URL_DE_LA_IMAGEN" alt="Descripción de la imagen" width="500">
+    <img src=images/base.jpeg alt="Modelo de la base para la creación de las trayectorias" width="500">
 </p>
-[INSERTAR IMAGEN DEL WORKOBJECT]
 
 Posteriormente, se procedió a la inserción y configuración del controlador y del robot manipulador IRB 140 en el software RobotStudio; Se creó el sistema de coordenadas del TCP (Tool Center Point) mediante la inserción del modelo previamente diseñado de la herramienta. Se definió el sistema de coordenadas en la punta de la herramienta, donde se esperaba que estuviera la punta del marcador. Después, se llevó a cabo la ubicación y alineación precisa de la herramienta, asegurando que su base y alineación coincidieran con el soporte para herramientas del robot.
 
