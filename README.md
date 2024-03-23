@@ -82,6 +82,6 @@ Vídeo de la ejecución en RobotStudio:
 
 [VÍDEO DE LA EJECUCIÓN EN ROBOTSTUDIO](https://drive.google.com/file/d/1eEKzkRL7ESZMzWdD5BrhaajbSHvmPtjl/view?usp=drive_link)
 
-Vídeo de la demostración en vivo del funcioamiento:
+Vídeo de la demostración en vivo del funcionamiento:
 
 [VÍDEO DE LA EJECUCIÓN](https://drive.google.com/file/d/1X_MEkrPnzsyIZni9NBtLPxnIQPhAWrQ1/view?usp=drive_link)
